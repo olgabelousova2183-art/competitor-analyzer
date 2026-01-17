@@ -3,6 +3,7 @@
 ![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green)
 ![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask)
 ![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # AI Competitor Market Analyzer
 
