@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-purple)
+![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green)
+![Flask](https://img.shields.io/badge/Flask-API-black?logo=flask)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # AI Competitor Market Analyzer
 
 Персональный AI-анализатор рынка конкурентов с возможностью анализа изображений, текста и автоматического парсинга веб-сайтов конкурентов.
